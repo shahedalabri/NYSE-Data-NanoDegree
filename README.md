@@ -4,15 +4,15 @@ Engage in a flexible data analysis project within the Introduction to Data modul
 
 Tasks:
 
-Define Data Question:
-Pose a question involving a categorical and a quantitative variable.
-Utilize summary statistics in an Excel sheet.
+1- Define Data Question:
+   Pose a question involving a categorical and a quantitative variable.
+   Utilize summary statistics in an Excel sheet.
 
-Create Presentation:
-Develop a presentation showcasing findings through visuals.
+2- Create Presentation:
+   Develop a presentation showcasing findings through visuals.
 
-Build Profit and Loss Dashboard:
-Craft a dynamic P&L dashboard featuring a selectable company.
+3- Build Profit and Loss Dashboard:
+   Craft a dynamic P&L dashboard featuring a selectable company.
 
-Construct Financial Forecasting Model:
-Project financials for two years, incorporating three scenarios.
+4- Construct Financial Forecasting Model:
+   Project financials for two years, incorporating three scenarios.
